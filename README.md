@@ -12,7 +12,7 @@ My purpose for writing this software was to answer questions i had about land pr
 
 # Data Analysis Results
 
-What is the state with the cheapest land? what year was the cheapest?
+(What is the state with the cheapest land? what year was the cheapest?
 
              State LandCategory           Region Region or State  Year  Acre Value
 2392  North Dakota      Pasture  Northern Plains           State  1997       141.0
@@ -184,7 +184,7 @@ Year
 2015    1636.666667
 2016    1553.333333
 2017    1563.333333
-Name: Acre Value, dtype: float64
+Name: Acre Value, dtype: float64)
 
 # Development Environment
 
