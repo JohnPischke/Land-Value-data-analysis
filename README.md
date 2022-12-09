@@ -16,10 +16,10 @@ My purpose for writing this software was to answer questions i had about land pr
 
              State LandCategory           Region Region or State  Year  Acre Value
 2392  North Dakota      Pasture  Northern Plains           State  1997       141.0
-2445  North Dakota      Pasture  Northern Plains           State  1998       144.0
-2498  North Dakota      Pasture  Northern Plains           State  1999       146.0
-2420       Wyoming      Pasture         Mountain           State  1997       150.0
-2418    New Mexico      Pasture         Mountain           State  1997       150.0
+- 2445  North Dakota      Pasture  Northern Plains           State  1998       144.0
+- 2498  North Dakota      Pasture  Northern Plains           State  1999       146.0
+- 2420       Wyoming      Pasture         Mountain           State  1997       150.0
+- 2418    New Mexico      Pasture         Mountain           State  1997       150.0
 
 What is the state with the most expensive land? what year was the most expensive?
 
@@ -188,8 +188,8 @@ Name: Acre Value, dtype: float64)
 
 # Development Environment
 
--Python
--Pandas python library
+- Python
+- Pandas python library
 
 # Useful Websites
 
